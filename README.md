@@ -1,7 +1,7 @@
 ## 👨‍💻Marlon Ferreira 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007bb6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlonferreira29121988/)](https://www.linkedin.com/in/marlonferreira29121988/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.ferreiraufsj@gmail.com)](mailto:m.ferreiraufsj@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5532999612912&text=Olá!)](https://api.whatsapp.com/send?phone=553299961291&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5532999612912&text=Olá!)](https://api.whatsapp.com/send?phone=5532999612912&text=Olá!)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/marlon.ferreira.1088)](https://www.facebook.com/marlon.ferreira.1088)
 
 #### Hi, folks :wave: , I'm a JS FullStack Web Developer 💛. and also:
