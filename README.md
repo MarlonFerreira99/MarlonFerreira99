@@ -1,16 +1,29 @@
-## Hi guys, I'm Marlon Ferreira 🤘
-
-🤖 I'm graduated in Mechatronic Engineering <br>
-👨‍💻 Full Stack Developer Jr <br>
-🌱 I've been learning since 2019 - <img src="https://img.icons8.com/color/0.8x/html-5.png" alt="html" width="20" height="20"><img src="https://img.icons8.com/color/0.8x/css3.png" alt="css" width="20" height="20"><img src="https://img.icons8.com/color/0.8x/javascript.png" alt="Js" width="20" height="20"> <img src="https://img.icons8.com/color/2x/nodejs.png" alt="node" width="20" height="20"> <img src="https://img.icons8.com/color/2x/react-native.png" alt="react" width="20" height="20"> <img src="https://img.icons8.com/color/2x/angularjs.png" alt="node" width="20" height="20"> <br>
-📫 How to reach me: **m.ferreiraufsj@gmail.com**
-
-
-### Find me elsewhere 🌎
-
+## 👨‍💻Marlon Ferreira 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007bb6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlonferreira29121988/)](https://www.linkedin.com/in/marlonferreira29121988/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-b10b7a?style=flat-square&labelColor=b10b7a&logo=instagram&logoColor=white&link=https://www.instagram.com/_marlon.ferreira/)](https://www.instagram.com/_marlon.ferreira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.ferreiraufsj@gmail.com)](mailto:m.ferreiraufsj@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511944402912&text=Olá!)](https://api.whatsapp.com/send?phone=5511944402912&text=Olá!)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/marlon.ferreira.1088)](https://www.facebook.com/marlon.ferreira.1088)
+
+#### Hi, folks :wave: , I'm a JS FullStack Web Developer 💛. and also:
+
+🤖 I'm graduated in Mechatronic Engineering. <br>
+📚 Currently Studying Node.Js, React.js and TypeScript. <br>
+⚽ Soccer player lover. <br>
+🎸 Rock'n'roll. <br>
+🚀 Every day coding and learning.
+
+## Techs & Skills:
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/MarlonFerreira99/)](https://github.com/MarlonFerreira99/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/MarlonFerreira99/)](https://github.com/MarlonFerreira99/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/MarlonFerreira99/)](https://github.com/MarlonFerreira99/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/MarlonFerreira99/)](https://github.com/MarlonFerreira99/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/MarlonFerreira99/)](https://github.com/MarlonFerreira99/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/MarlonFerreira99/)](https://github.com/MarlonFerreira99/) <br>
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/MarlonFerreira99/)](https://github.com/MarlonFerreira99/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/MarlonFerreira99/)](https://github.com/MarlonFerreira99/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/MarlonFerreira99/)](https://github.com/MarlonFerreira99/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/MarlonFerreira99/)](https://github.com/MarlonFerreira99/)
+
 
 
 <!--
